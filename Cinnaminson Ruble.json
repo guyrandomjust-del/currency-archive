@@ -1,0 +1,236 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Cinnaminson Ruble.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1323216719589670985",
+    "type": "GuildPublicThread",
+    "categoryId": "1323164295655194624",
+    "category": "currency-archive",
+    "name": "Cinnaminson Ruble",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:09:09.6864342+04:00",
+  "messages": [
+    {
+      "id": "1323216719589670985",
+      "type": "Default",
+      "timestamp": "2024-12-30T13:10:50.128+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Currency of Cinnaminson",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Cinnaminson Ruble.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "Cinnaminson Ruble.json_Files\\1f525-8fe4fec316602fac.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "694277549538279535",
+              "name": "deleted_user_46fd0ba68d75",
+              "discriminator": "0000",
+              "nickname": "deleted_user_46fd0ba68d75",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "Cinnaminson Ruble.json_Files\\5-e9bdbc123bbdd5b5.png"
+            },
+            {
+              "id": "1101953661862686740",
+              "name": "ellorail",
+              "discriminator": "0000",
+              "nickname": "\uD83E\uDD86",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "Cinnaminson Ruble.json_Files\\481918c5d9f7f7769a15523c0464b297-5d77402236d84e27.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1323216791513600011",
+      "type": "Default",
+      "timestamp": "2024-12-30T13:11:07.276+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "100 Cinnaminson Ruble dollar bill",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Cinnaminson Ruble.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1323216791429972018",
+          "url": "Cinnaminson Ruble.json_Files\\Q83WP91-f4e9674bd9422060.png",
+          "fileName": "Q83WP91.png",
+          "fileSizeBytes": 610623
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1323487123126620190",
+      "type": "Default",
+      "timestamp": "2024-12-31T07:05:19.355+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "200 Cinnaminson Ruble dollar bill",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Cinnaminson Ruble.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1323487121863999580",
+          "url": "Cinnaminson Ruble.json_Files\\2bg5QBo-9352ed2a0fc1ea0b.png",
+          "fileName": "2bg5QBo.png",
+          "fileSizeBytes": 812411
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}
